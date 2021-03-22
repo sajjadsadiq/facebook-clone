@@ -1,0 +1,19 @@
+.headerCenter{
+    display: flex;
+    flex:1;
+    justify-content:center
+}
+.headerCenterItem{
+    display: flex;
+    align-items:center;
+    padding: 0 30px;
+    cursor: pointer;
+}
+.headerCenterItem .MuiSvgIcon-root{
+    color: gray;
+    font-size:30px;
+
+}
+.headerCenterItem :hover{
+    color:#2e81f4
+}

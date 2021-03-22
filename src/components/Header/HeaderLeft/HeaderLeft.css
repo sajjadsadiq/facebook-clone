@@ -1,0 +1,30 @@
+.headerLeft{
+    display:flex;
+    justify-content:space-evenly;
+}
+.fbLogo{
+    width:50px;
+    cursor: pointer;
+}
+.searchFb{
+    display: flex;
+    align-items:center;
+    margin-left: 10px;
+    background-color: #eff2f5;
+    padding:10px;
+    border-radius:999px;
+    height: 30px;
+    width: 200px;
+}
+/* .searchIcon{
+    border-radius:999px;
+    background-color: #eff2f5;
+    padding:10px
+} */
+.searchType input {
+    padding:5px;
+    border:none;
+    background: transparent;
+    border-radius: 10px;
+    outline-width: 0;
+}

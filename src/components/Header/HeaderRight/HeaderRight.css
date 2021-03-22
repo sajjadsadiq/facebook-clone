@@ -1,0 +1,15 @@
+.headerRight{
+    display: flex;
+}
+.profileInfo{
+    display: flex;
+    align-items:center;
+}
+.profileInfo h4{
+    margin-left: 10px;
+    padding:0;
+}
+.headerRightItem{
+    display: flex;
+    align-items: center;
+}
